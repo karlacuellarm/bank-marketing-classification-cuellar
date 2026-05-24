@@ -1,6 +1,3 @@
-# bank-marketing-classification-cuellar
-Binary classification project using PySpark MLlib models to predict term deposit subscription in the Bank Marketing dataset.
-
 # Bank Marketing Classification Project
 
 This project develops a binary classification process using the Bank Marketing dataset. The main objective is to predict whether a client subscribes to a term deposit based on demographic, financial, and campaign-related variables.
